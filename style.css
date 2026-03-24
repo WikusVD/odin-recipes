@@ -1,0 +1,27 @@
+.Title{
+    display: block;
+    background-color: pink;
+    margin:10px auto;
+    padding: 10px;
+    text-align: center;    
+}
+
+.Images{
+    align-content: center;
+    padding: 10px;
+    margin: 5px, auto;
+}
+
+h2{
+    background-color: orange;
+    display: block;
+    margin: 40px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+p{
+    background-color: gray;
+    border-color: black;
+    border: 5px;
+}
